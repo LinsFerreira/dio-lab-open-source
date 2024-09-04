@@ -1,8 +1,6 @@
 ## Olá pessoal 👋
 
-## Quem sou eu?
-
-Olá, me chamo Walterlins Ferreira! 
+Me chamo Walterlins Ferreira! 
 Analista de Infraestrutura Sênior e Desenvolvedor Fullstack em PHP e Javascript, experiência na área de tecnologia desde agosto/2000. Acredito que o setor de TI possa ter uma maior participação na estratégia do negócio, como forma de oferecer serviços e soluções para o melhor desempenho das atividades corporativas.
 
 Atualmente, sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Desenvolvimento Mobile. Sou certificado em ITIL 4 e AWS Certified Cloud Practitioner. 
